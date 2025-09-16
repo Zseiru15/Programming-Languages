@@ -64,5 +64,10 @@
     "*.rmd": "markdown",
     "iostream": "cpp",
     "vector": "cpp"
+  },
+  "editor.quickSuggestions": {
+    "comments": "off",
+    "strings": "off",
+    "other": "off"
   }
 }
